@@ -209,6 +209,14 @@
       },
       "url": "https://packages.unity.com"
     },
+    "dev.purrnet.purrdiction": {
+      "version": "file:../PurrPackages/dev.purrnet.purrdiction-1.2.3.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.11.4"
+      }
+    },
     "dev.purrnet.purrnet": {
       "version": "https://github.com/PurrNet/PurrNet.git?path=/Assets/PurrNet#release",
       "depth": 0,
